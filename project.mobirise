@@ -777,7 +777,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"fa fa-send mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(64, 64, 64);\"></span></a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"fa fa-send mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>&nbsp; &nbsp;</a>",
           "text": "Copyright (c) 2016 Riflecraft Ltd."
         }
       ]
@@ -1237,7 +1237,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"fa fa-send mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(64, 64, 64);\"></span></a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"fa fa-send mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>&nbsp; &nbsp;</a>",
           "text": "Copyright (c) 2016 Riflecraft Ltd."
         }
       ]
