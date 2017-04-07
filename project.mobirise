@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Riflecraft - New Concept",
-    "currentPage": "Custom-Rifles.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -690,7 +690,7 @@
         {
           "_styles": {
             "SPAN": {
-              "font-size": "13px"
+              "font-size": "18px"
             },
             ".btn": {
               "font-size": "12px"
@@ -777,7 +777,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">&gt;</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"fa fa-send mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(64, 64, 64);\"></span></a>",
           "text": "Copyright (c) 2016 Riflecraft Ltd."
         }
       ]
@@ -1174,7 +1174,7 @@
         {
           "_styles": {
             "SPAN": {
-              "font-size": "13px"
+              "font-size": "18px"
             },
             ".btn": {
               "font-size": "12px"
@@ -1261,7 +1261,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">&gt;</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"fa fa-send mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(64, 64, 64);\"></span></a>",
           "text": "Copyright (c) 2016 Riflecraft Ltd."
         }
       ]
