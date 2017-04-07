@@ -916,14 +916,15 @@ blockquote {
 }
 #form2-13 .mbr-section-subtitle {
   text-transform: uppercase;
-  color: #ffffff;
+  color: #ffffff!important;
 }
 #form2-13 .form-control-label {
-  color: undefined;
+  color: #ffffff;
 }
 #form2-13 .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
   font-size: 60px;
+  color: #ffffff!important;
 }
 #form2-13 .mbr-section-title B {
   color: #ffffff;
