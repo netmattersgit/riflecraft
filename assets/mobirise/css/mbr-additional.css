@@ -848,7 +848,6 @@ blockquote {
 }
 
 
-
 #menu-n .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -917,6 +916,9 @@ blockquote {
 #menu-n .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
+#form2-13 {
+  
+}
 #form2-13 .mbr-section-subtitle {
   text-transform: uppercase;
   color: #ffffff;
@@ -927,6 +929,7 @@ blockquote {
 #form2-13 .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
   font-size: 60px;
+  color: #ffffff!important;
 }
 #form2-13 .mbr-section-title B {
   color: #ffffff;
@@ -940,13 +943,18 @@ blockquote {
 }
 #features8-14 .mbr-section-subtitle {
   text-transform: uppercase;
+  color: #ffffff!important;
+}
+#features8-14 .mbr-section-title {
+  font-size: 60px;
+  color: #ffffff!important;
 }
 #features8-14 .mbr-section-title B {
   font-size: 60px;
-  color: #ffffff;
+  color: #ffffff!important;
 }
 #features8-14 .mbr-section-text {
-  color: #ffffff;
+  color: #ffffff!important;
 }
 #content3-11 .mbr-section-title,
 #content3-11 .mbr-section-subtitle {
