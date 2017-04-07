@@ -9,7 +9,7 @@
         "primaryColor": "#f39c12",
         "buttonsColor": "#ffffff",
         "secondaryColor": "#9b59b6",
-        "successColor": "#ffffff",
+        "successColor": "#333333",
         "infoColor": "#3498db",
         "warningColor": "#f1c40f",
         "dangerColor": "#e74c3c",
@@ -688,7 +688,14 @@
           "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">"
         },
         {
-          "_styles": {},
+          "_styles": {
+            "SPAN": {
+              "font-size": "13px"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
           "logo": {
             "image": {
               "active": true,
@@ -770,7 +777,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">&gt;</a>",
           "text": "Copyright (c) 2016 Riflecraft Ltd."
         }
       ]
@@ -1166,43 +1173,17 @@
         },
         {
           "_styles": {
-            ".mbr-section-subtitle, .mbr-section-text": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "margin-bottom": "20px",
-              "margin-top": "0"
-            },
             "SPAN": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "font-size": "13px"
+            },
+            ".btn": {
+              "font-size": "12px"
             }
-          },
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-o",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444",
-            "logo": false,
-            "showTitles": true,
-            "showButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@THEME_PATH@/components/_images/colorm_logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
@@ -1213,26 +1194,74 @@
               "size": 0
             }
           },
+          "text41": "Popular",
+          "text42": "Trending",
+          "text43": "Catalog",
+          "text44": "Awesome",
+          "text45": "Best",
+          "header1": "Subscribe And Get The Latest News",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer6",
+          "_anchor": "footer6-p",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/footer5.jpg",
+            "bgColor": "#444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444",
+            "showTitles": true
+          },
           "title1": "RIFLECRAFT LTD",
-          "text11": "About Us<br>Brands<br>Register<br>Login<br>Gunsmithing<br>Training Courses<br>Optics<br>Shop<br>",
+          "text11": "",
           "text12": "",
           "text13": "",
-          "text14": "",
+          "text14": "About Us<br>Brands<br>Register<br>Login<br>Gunsmithing<br>Training Courses<br>Optics<br>Shop",
           "text15": "",
           "title2": "CONTACT US",
-          "text21": "",
+          "text21": "Telephone: 01379 853 745<br>Fax: 01379 853421<br>Email: sales@riflecraft.co.uk<br><br>Enquiry Form<br>Opening Times<br>Visit Us",
           "text22": "",
           "text23": "",
-          "text24": "Telephone: 01379 853 745<br>Fax: 01379 853421<br>Email: sales@riflecraft.co.uk<br><br>Enquiry Form<br>Opening Times<br>Visit Us<br>",
+          "text24": "",
           "text25": "",
           "title3": "OUR SITE",
           "text31": "",
-          "text32": "News<br>Delivery Policy<br>Firearms Purchasing Policy<br>Refund &amp; Cancellation Policy<br>Privacy Policy<br>",
+          "text32": "",
           "text33": "",
           "text34": "",
-          "text35": "",
-          "followtext": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\"></a>",
+          "text35": "News<br>Delivery Policy<br>Firearms Purchasing Policy<br>Refund &amp; Cancellation Policy<br>Privacy Policy<br>",
+          "title4": "JOIN OUR COMMUNITY",
+          "form": {
+            "action": "emarketinghut@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email"
+              },
+              "name": {
+                "title": "Name",
+                "customTitle": "Name*",
+                "visible": false
+              },
+              "phone": {
+                "title": "Phone",
+                "customTitle": "Phone",
+                "visible": false
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">&gt;</a>",
           "text": "Copyright (c) 2016 Riflecraft Ltd."
         }
       ]
