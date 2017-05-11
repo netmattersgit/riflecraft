@@ -1293,7 +1293,7 @@
           },
           "title": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
-          "_customCSS": ".mbr-section {\n    height:500px;\n}"
+          "_customCSS": ".mbr-section {\n    position: relative;\n    padding-top: 200px;\n    padding-bottom: 200px;\n    background-position: 50% 50%;\n    background-repeat: no-repeat;\n    background-size: cover;\n}"
         },
         {
           "_styles": {
