@@ -961,7 +961,6 @@ blockquote {
 
 
 
-
 #menu-2a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1034,15 +1033,19 @@ blockquote {
 #slider3-2s .mbr-section-text {
   color: #fff;
 }
-#content1-2v H3 {
-  color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 60px;
-  text-align: center;
+#features8-38 .lead {
+  color: #9fa3a7;
 }
-#content1-2v P {
+#features8-38 .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features8-38 .mbr-section-title B {
+  font-size: 60px;
   color: #ffffff;
-  text-align: center;
+  text-align: left;
+}
+#features8-38 .mbr-section-text {
+  color: #ffffff;
 }
 #content3-2y .mbr-section-title,
 #content3-2y .mbr-section-subtitle {
