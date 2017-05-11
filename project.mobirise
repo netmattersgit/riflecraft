@@ -222,7 +222,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/features/03.jpg",
             "bgColor": "#323232",
             "bgColorRadio": true,
             "bgVideo": {
@@ -335,7 +335,7 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/05.jpg",
+              "src": "@THEME_PATH@/components/_images/features/05.jpg",
               "class": "features-img",
               "width": 600
             },
@@ -355,7 +355,7 @@
           "media6": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/06.jpg",
+              "src": "@THEME_PATH@/components/_images/features/06.jpg",
               "class": "features-img",
               "width": 600
             },
@@ -405,7 +405,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/features/03.jpg",
             "bgColor": "#445647",
             "bgColorRadio": true,
             "bgVideo": {
@@ -518,7 +518,7 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/05.jpg",
+              "src": "@THEME_PATH@/components/_images/features/05.jpg",
               "class": "features-img",
               "width": 600
             },
@@ -538,7 +538,7 @@
           "media6": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/06.jpg",
+              "src": "@THEME_PATH@/components/_images/features/06.jpg",
               "class": "features-img",
               "width": 600
             },
@@ -1746,8 +1746,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft0.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright1.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft2.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright3.png\">"
         },
         {
           "_styles": {
@@ -2182,7 +2182,7 @@
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/05.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
             "bgColor": "#333333",
             "bgColorRadio": true,
             "bgVideo": {
@@ -2445,7 +2445,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/features/03.jpg",
             "bgColor": "#445647",
             "bgColorRadio": true,
             "bgVideo": {
@@ -2489,12 +2489,15 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/02.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ruger-precision-rifle-mucy-1400x681.jpg",
               "class": "features-img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "active": false,
               "class": "mbr-iconfont mbr-iconfont-features4",
               "name": "edit",
               "link": "https://mobirise.com",
@@ -2509,12 +2512,15 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/03.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ruger-precision-rifle-mucy-600x292.jpg",
               "class": "features-img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "active": false,
               "class": "mbr-iconfont mbr-iconfont-features4",
               "name": "briefcase",
               "link": "https://mobirise.com",
@@ -2529,12 +2535,15 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/04.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ruger-precision-rifle-mucy-600x292.jpg",
               "class": "features-img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "active": false,
               "class": "mbr-iconfont mbr-iconfont-features4",
               "name": "linegraph",
               "link": "https://mobirise.com",
@@ -2549,12 +2558,15 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/05.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ruger-precision-rifle-mucy-600x292.jpg",
               "class": "features-img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "active": false,
               "class": "mbr-iconfont mbr-iconfont-features4",
               "name": "briefcase",
               "link": "https://mobirise.com",
@@ -2569,12 +2581,15 @@
           "media6": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/06.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ruger-precision-rifle-mucy-600x292.jpg",
               "class": "features-img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "active": false,
               "class": "mbr-iconfont mbr-iconfont-features4",
               "name": "linegraph",
               "link": "https://mobirise.com",
@@ -2790,7 +2805,7 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/05.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#445647",
