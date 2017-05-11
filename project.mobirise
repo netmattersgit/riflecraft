@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Riflecraft - New Concept",
-    "currentPage": "shop.html",
+    "currentPage": "signature-rifle.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -1544,10 +1544,10 @@
           "_anchor": "content1-2v",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgColor": "#445647"
           },
-          "text": "<h3><b>Lorem Ipsum - Signature Rifle</b></h3>The LR1000 draws heritage from our original concept of the perfect all around rifle. Back then we set the industry on a new course, by defining the long range shooting system. Basically, we combine rifle, ammunition, rifle scope, ballistic matched turret, and ballistic rangefinder in a shooting system for any shot. With our efforts, setting up the system, breaking in the barrel, validating accuracy and precision, and measuring the long range performance of the projectile to develop the True Ballistic Profile, we can truly deliver \"1000 Yards Out Of The Box\"!<br><br>After ten years, the LR1000 still offers features and functionality that is unmatched by our competitors. The secret is in the engineered design of the components and system. Instead of bolting together the components everyone else uses, we design and manufacture unique parts that are only available through Gunwerks. When you combine these parts in a proven system, with each rifle tested to 1000 yards, you can expect the out-of-the-box performance Gunwerks is renowned for.<br>",
+          "text": "<h3><b>Lorem Ipsum - Signature Rifle</b></h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.<br>",
           "_styles": {
             "H3": {
               "color": "#ffffff",
@@ -1698,7 +1698,7 @@
               "newWindow": false
             }
           },
-          "title31": "BOOST YOUR RANKING",
+          "title31": "Lorem Ipsum Dolor",
           "text31": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
           "media32": {
             "iconFont": {
@@ -1713,7 +1713,7 @@
               "newWindow": false
             }
           },
-          "title32": "BOOST YOUR RANKING",
+          "title32": "Lorem Ipsum Dolor",
           "text32": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
           "media33": {
             "iconFont": {
@@ -1728,7 +1728,7 @@
               "newWindow": false
             }
           },
-          "title33": "BOOST YOUR RANKING",
+          "title33": "Lorem Ipsum Dolor",
           "text33": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
           "media41": {
             "iconFont": {
@@ -1868,7 +1868,7 @@
           "_name": "content3",
           "_anchor": "content3-2y",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": "0",
             "bgColor": "#666666",
             "showMeta": true
@@ -1885,80 +1885,87 @@
           "_name": "gallery2",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingBottom": "4",
             "images": [
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/guns-cat-600x400-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/guns-cat-600x400.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/tools-cat-600x400-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tools-cat-600x400.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/mod-cat-600x400-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mod-cat-600x400.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery03.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery03.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/acc-cat-600x400-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/acc-cat-600x400.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery04.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery04.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/cleaning-cat-600x400-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cleaning-cat-600x400.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery05.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/optic-cat-600x400-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/optic-cat-600x400.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/tactical-cat-600x400-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tactical-cat-600x400.jpg",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery07.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery07.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/all-products-cat-600x400-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/all-products-cat-600x400.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": "1",
@@ -1972,8 +1979,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft24.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright25.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft28.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright29.png\">"
         },
         {
           "_styles": {
