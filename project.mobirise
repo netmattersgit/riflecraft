@@ -2063,8 +2063,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft42.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright43.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft44.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright45.png\">"
         },
         {
           "_styles": {
