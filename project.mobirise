@@ -1972,8 +1972,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft22.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright23.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft24.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright25.png\">"
         },
         {
           "_styles": {
