@@ -10,7 +10,7 @@
         "buttonsColor": "#ffffff",
         "secondaryColor": "#f39c12",
         "successColor": "#333333",
-        "infoColor": "#445647",
+        "infoColor": "#ffffff",
         "warningColor": "#333333",
         "dangerColor": "#666666",
         "titleFont": "Montserrat",
@@ -1748,8 +1748,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft6.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright7.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft8.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright9.png\">"
         },
         {
           "_styles": {
