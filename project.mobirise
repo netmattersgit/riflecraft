@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12",
-    "uniqCompNum": 117,
+    "uniqCompNum": 118,
     "versionPublish": "3.12"
   },
   "pages": {
@@ -1537,6 +1537,37 @@
         },
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "60px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "60px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-39",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#445647",
+            "showMeta": true
+          },
+          "title": "<b>Signature Rifles</b>",
+          "meta": ""
+        },
+        {
+          "_styles": {
             ".lead": {
               "color": "#9fa3a7"
             },
@@ -1549,7 +1580,8 @@
               "text-align": "left"
             },
             ".mbr-section-text": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "title2": "Responsive",
@@ -1575,8 +1607,8 @@
           "_anchor": "features8-38",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "file:///C:/Users/scott.aldridge/AppData/Local/Mobirise.com/Mobirise/projectData/05.jpg",
@@ -1590,7 +1622,7 @@
             "overlayOpacity": 0.9,
             "overlayColor": "#ecf0f1",
             "showNumber": false,
-            "showTitles": true,
+            "showTitles": false,
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
@@ -1598,8 +1630,8 @@
           },
           "number1": "1",
           "subtitle1": "Bootstrap 4 has been noted",
-          "title1": "<b>Lorem Ipsum - Signature Rifle</b>",
-          "caption1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&nbsp;<span style=\"font-size: 1rem; line-height: 1.85em;\">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span><br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.<br>",
+          "title1": "",
+          "caption1": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. <br><br><span style=\"font-size: 1rem; line-height: 1.85em;\">Enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</span><br>",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media1": {
             "image": {
@@ -1910,7 +1942,7 @@
             },
             "B": {
               "color": "#ffffff",
-              "text-align": "right",
+              "text-align": "left",
               "font-size": "60px"
             }
           },
@@ -2031,8 +2063,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft40.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright41.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft42.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright43.png\">"
         },
         {
           "_styles": {

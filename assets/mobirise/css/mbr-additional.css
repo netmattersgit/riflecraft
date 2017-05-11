@@ -961,6 +961,7 @@ blockquote {
 
 
 
+
 #menu-2a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1033,6 +1034,20 @@ blockquote {
 #slider3-2s .mbr-section-text {
   color: #fff;
 }
+#content3-39 .mbr-section-title,
+#content3-39 .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-39 H3 {
+  font-size: 60px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+#content3-39 B {
+  color: #ffffff;
+  text-align: left;
+  font-size: 60px;
+}
 #features8-38 .lead {
   color: #9fa3a7;
 }
@@ -1046,6 +1061,7 @@ blockquote {
 }
 #features8-38 .mbr-section-text {
   color: #ffffff;
+  text-align: center;
 }
 #content3-2y .mbr-section-title,
 #content3-2y .mbr-section-subtitle {
@@ -1058,7 +1074,7 @@ blockquote {
 }
 #content3-2y B {
   color: #ffffff;
-  text-align: right;
+  text-align: left;
   font-size: 60px;
 }
 #testimonials1-31 .card-block p {
