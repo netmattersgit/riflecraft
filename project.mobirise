@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Riflecraft - New Concept",
-    "currentPage": "shop.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -512,7 +512,7 @@
               "family": "et-line"
             }
           },
-          "subtitle4": "<a href=\"shop.html\">Shop</a>",
+          "subtitle4": "<a href=\"shop.html\" class=\"text-white\">Shop</a>",
           "caption4": "We cater to your needs - not just with Rifles, but with Air Guns, Shotguns, equipment and Ammunition.<br>",
           "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "media5": {
@@ -1748,8 +1748,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft4.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright5.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft6.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright7.png\">"
         },
         {
           "_styles": {
