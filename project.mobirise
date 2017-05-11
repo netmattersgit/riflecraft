@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Riflecraft - New Concept",
-    "currentPage": "signature-rifle.html",
+    "currentPage": "smith-and-wesson.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12",
-    "uniqCompNum": 97,
+    "uniqCompNum": 114,
     "versionPublish": "3.12"
   },
   "pages": {
@@ -817,6 +817,77 @@
           "meta": ""
         },
         {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "file:///C:/Users/scott.aldridge/AppData/Local/Mobirise.com/Mobirise/projectData/preview_1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1333-800x533-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1333-1.jpg",
+                "caption": "Guns",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "file:///C:/Users/scott.aldridge/AppData/Local/Mobirise.com/Mobirise/projectData/preview_1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-2000x1333-800x533-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6-2000x1333-1.jpg",
+                "caption": "Cleaning",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "file:///C:/Users/scott.aldridge/AppData/Local/Mobirise.com/Mobirise/projectData/preview_1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1333-800x533-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1333-1.jpg",
+                "caption": "Optics",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "file:///C:/Users/scott.aldridge/AppData/Local/Mobirise.com/Mobirise/projectData/preview_1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1333-800x533-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1333-1.jpg",
+                "caption": "Moderators",
+                "active": false
+              }
+            ],
+            "spacing": "2",
+            "showText": true,
+            "filter": false,
+            "bgColor": "#333333",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-18",
+          "articleLayout": false,
+          "allItem": "ALL",
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
+          "_styles": {
+            ".mbr-gallery-title": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          }
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -1078,77 +1149,6 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"fa fa-send mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(65, 65, 65);\"></span></a>",
           "text": "Copyright (c) 2016 Riflecraft Ltd."
-        },
-        {
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "images": [
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "videoPreview": "file:///C:/Users/scott.aldridge/AppData/Local/Mobirise.com/Mobirise/projectData/preview_1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1333-800x533-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2-2000x1333-1.jpg",
-                "caption": "Guns",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "videoPreview": "file:///C:/Users/scott.aldridge/AppData/Local/Mobirise.com/Mobirise/projectData/preview_1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6-2000x1333-800x533-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/6-2000x1333-1.jpg",
-                "caption": "Cleaning",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "videoPreview": "file:///C:/Users/scott.aldridge/AppData/Local/Mobirise.com/Mobirise/projectData/preview_1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1333-800x533-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/7-2000x1333-1.jpg",
-                "caption": "Optics",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "videoPreview": "file:///C:/Users/scott.aldridge/AppData/Local/Mobirise.com/Mobirise/projectData/preview_1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1333-800x533-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/8-2000x1333-1.jpg",
-                "caption": "Moderators",
-                "active": false
-              }
-            ],
-            "spacing": "2",
-            "showText": true,
-            "filter": false,
-            "bgColor": "#333333",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": false
-          },
-          "_anchor": "gallery1-18",
-          "articleLayout": false,
-          "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
-          "_styles": {
-            ".mbr-gallery-title": {
-              "color": "#ffffff",
-              "text-align": "center"
-            }
-          }
         }
       ]
     },
@@ -1258,12 +1258,7 @@
         },
         {
           "_styles": {
-            ".mbr-section-title": {
-              "font-weight": "400"
-            },
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase",
-              "letter-spacing": "2px",
+            ".mbr-section-title, .mbr-section-text": {
               "color": "#fff"
             }
           },
@@ -1271,29 +1266,672 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "features17",
-          "_anchor": "features17-2n",
+          "_name": "slider3",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "autoplay": true,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "timeout": "6",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/signature-rifle-2000x446.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/signature-rifle-1-2000x446.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#333333",
+            "showBullets": true
+          },
+          "_anchor": "slider3-2s",
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrow-left.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2v",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#666666"
+          },
+          "text": "<h3><b>Lorem Ipsum - Signature Rifle</b></h3>The LR1000 draws heritage from our original concept of the perfect all around rifle. Back then we set the industry on a new course, by defining the long range shooting system. Basically, we combine rifle, ammunition, rifle scope, ballistic matched turret, and ballistic rangefinder in a shooting system for any shot. With our efforts, setting up the system, breaking in the barrel, validating accuracy and precision, and measuring the long range performance of the projectile to develop the True Ballistic Profile, we can truly deliver \"1000 Yards Out Of The Box\"!<br><br>After ten years, the LR1000 still offers features and functionality that is unmatched by our competitors. The secret is in the engineered design of the components and system. Instead of bolting together the components everyone else uses, we design and manufacture unique parts that are only available through Gunwerks. When you combine these parts in a proven system, with each rifle tested to 1000 yards, you can expect the out-of-the-box performance Gunwerks is renowned for.<br>",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "36px"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {},
+          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "tabs1",
+          "_anchor": "tabs1-2x",
+          "_params": {
+            "showImages": false,
+            "tabs": "3",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#fff",
+            "showHeader": false,
+            "showHeaderText": false,
+            "showTitles": true
+          },
+          "title": "Our advantages",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque mollitia ipsa ullam, voluptas beatae qui eligendi eveniet necessitatibus perferendis exercitationem fuga iure voluptates voluptatibus laborum sit est. Odit quas facilis tenetur, exercitationem nesciunt. Doloremque voluptatibus officia quod, nostrum tempore quos hic quae molestias! Vero iste itaque cupiditate a nobis, soluta.",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs1-2x\" aria-expanded=\"false\">LOREM IPSUM</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs1-2x\" aria-expanded=\"true\">LOREM IPSUM</a></li><li class=\"nav-item nav-item-last\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs1-2x\" aria-expanded=\"false\">LOREM IPSUM</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs1-2x\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs1-2x\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs1-2x\">Beautiful</a></li>",
+          "media11": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "linegraph",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "1",
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "title11": "Lorem Ipsum Dolor",
+          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+          "media12": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "growing-chart",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "1",
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "title12": "Lorem Ipsum Dolor",
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+          "media13": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "paperclip",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "1",
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "title13": "Lorem Ipsum Dolor",
+          "text13": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+          "media21": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "upload",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "1",
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "title21": "Lorem Ipsum Dolor",
+          "text21": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+          "media22": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "growing-chart",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "1",
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "title22": "Lorem Ipsum Dolor",
+          "text22": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+          "media23": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "global",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "1",
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "title23": "Lorem Ipsum Dolor",
+          "text23": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+          "media31": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "upload",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "1",
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "title31": "BOOST YOUR RANKING",
+          "text31": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+          "media32": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "cloud",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "1",
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "title32": "BOOST YOUR RANKING",
+          "text32": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+          "media33": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "global",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "1",
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "title33": "BOOST YOUR RANKING",
+          "text33": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+          "media41": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "text41": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
+          "media42": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "attachment",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "text42": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
+          "media43": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "paperclip",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "text43": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
+          "media51": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "upload",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title51": "BOOTSTRAP BUILDER",
+          "text51": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
+          "media52": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "genius",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title52": "BOOTSTRAP BUILDER",
+          "text52": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
+          "media53": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title53": "BOOTSTRAP BUILDER",
+          "text53": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
+          "media61": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "upload",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title61": "TRENDY WEBSITE BLOCKS",
+          "text61": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
+          "media62": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "genius",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title62": "TRENDY WEBSITE BLOCKS",
+          "text62": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
+          "media63": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title63": "TRENDY WEBSITE BLOCKS",
+          "text63": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "60px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-2y",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#666666",
+            "showMeta": true
+          },
+          "title": "<b>Signature Rifle Gallery</b>",
+          "meta": ""
+        },
+        {
+          "_inherit": "gallery1",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "3",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery03.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery03.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery04.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery04.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery05.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery07.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery07.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#666666",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-30",
+          "articleLayout": false,
+          "allItem": "ALL",
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft0.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright1.png\">"
+        },
+        {
+          "_styles": {
+            ".card-block p": {
+              "font-size": "15px"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_params": {
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 2,
+            "paddingBottom": 1,
+            "slides": [
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                },
+                "authorName": "John Smith",
+                "authorBio": "CUSTOMER",
+                "text": "<p>“A major turning point in the history of early philosophical science was the controversial”</p>"
+              },
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                },
+                "authorName": "Alex Higgins",
+                "authorBio": "USER",
+                "text": "<p>\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. \"</p>"
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                },
+                "authorName": "John Smith",
+                "authorBio": "CUSTOMER",
+                "text": "<p>“A major turning point in the history of early philosophical science was the controversial”</p>"
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/face4.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                },
+                "authorName": "Alex Higgins",
+                "authorBio": "USER",
+                "text": "<p>\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. \"</p>"
+              }
+            ],
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wood-pattern-ground-parquet-floor-2000x1333.jpg",
-            "bgColor": "#ffc80a",
-            "bgColorRadio": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/flight-mountains-sky-flying.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": "0",
-            "overlayColor": "#ffc80a",
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
             "showTitle": true,
-            "showButtons": false
+            "showSubtitle": false,
+            "showBullets": true,
+            "visibleSlides": "3",
+            "controlBgLeft": "@PROJECT_PATH@/assets/images/left.png",
+            "controlBgRight": "@PROJECT_PATH@/assets/images/right.png"
           },
-          "title": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
-          "_customCSS": ".mbr-section {\n    padding-top: 250px;\n    padding-bottom: 250px;\n}"
+          "_anchor": "testimonials1-31",
+          "title": "<b>Our Customers Say...</b>",
+          "subtitle": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "color": "#ffffff"
+            },
+            ".form-control-label": {},
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "60px"
+            },
+            ".mbr-section-title B": {
+              "color": "#ffffff",
+              "font-size": "48px"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-32",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/repair-2000x1333.jpg",
+            "bgColor": "#ecf0f1",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#333333",
+            "showSubtitle": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "subtitle": "Do you want A Signature? Fill out this form and we will be in touch!<br>",
+          "title": "<font color=\"#ffffff\"><b>ORDER A SIGNATURE RIFLE</b></font>",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui!",
+          "form": {
+            "action": "netmattersltd@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Get in Touch</a>"
         },
         {
           "_styles": {
@@ -2110,7 +2748,7 @@
           "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
           "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Get in Touch</a>",
-          "_customHTML": "<section class=\"mbr-section form1 mbr-background mbr-after-navbar\" style=\"background-image: url(@PROJECT_PATH@/assets/images/repair-2000x1333.jpg); padding-top: 160px; padding-bottom: 120px;\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.7; background-color: rgb(51, 51, 51);\">\n    </div>\n\n    <div class=\"container-fluid\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 col-lg-10 col-lg-offset-1 text-xs-center\">\n\n                <div class=\"col-xs-12 col-lg-6\">\n                    \n                    <p class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"97\">Do you want &nbsp;custom rifle? Fill out this form and we will be in touch!<br></p>\n\n                    <h1 class=\"mbr-section-title display-4 mbr-editable-content\" code-editable-id=\"98\"><strong>Create a Custom Rifle</strong></h1>\n                    <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"99\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui. Voluptas nam consectetur, dolorem sed quo qui iusto dolor!</p>\n\n                </div>\n                \n                <div class=\"col-xs-12 col-lg-6\" data-form-type=\"formoid\">\n\n\n                    <div data-form-alert=\"true\">\n                        <div hidden=\"\" data-form-alert-success=\"true\" class=\"alert alert-form alert-success text-xs-center\">Thanks for filling out form!</div>\n                    </div>\n\n\n                    <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"Create a Custom Rifle\">\n\n                        <input type=\"hidden\" value=\"NTOsaZqtcM33YDSRsreYY1RnK0HygWsKgxk4bHxjiQyQZlesd+vdXY0U1sxn3RfS8+kNtAWvGxXu3MiZ2UZCq8awwnIq8b3wzSBW+/wVCbsc5nOJ3xyXl8AaHpBQl9Ka\" data-form-email=\"true\">\n\n                        <div class=\"row row-sm-offset\">\n\n                            <div class=\"col-xs-12 col-md-4\">\n                                <div class=\"form-group\">\n                                    <label class=\"form-control-label\" for=\"form2-15-name\">Name<span class=\"form-asterisk\">*</span></label>\n                                    <div class=\"form-icon\"><img src=\"@PROJECT_PATH@/assets/images/icon-name.png\"></div>\n                                    <input type=\"text\" class=\"form-control\" name=\"name\" required=\"\" data-form-field=\"Name\" placeholder=\"Name*\" id=\"form2-15-name\">\n                                </div>\n                            </div>\n\n                            <div class=\"col-xs-12 col-md-4\">\n                                <div class=\"form-group\">\n                                    <label class=\"form-control-label\" for=\"form2-15-email\">Email<span class=\"form-asterisk\">*</span></label>\n                                    <div class=\"form-icon\"><img src=\"@PROJECT_PATH@/assets/images/icon-email.png\"></div>\n                                    <input type=\"email\" class=\"form-control\" name=\"email\" required=\"\" data-form-field=\"Email\" placeholder=\"Email*\" id=\"form2-15-email\">\n                                </div>\n                            </div>\n\n                            <div class=\"col-xs-12 col-md-4\">\n                                <div class=\"form-group\">\n                                    <label class=\"form-control-label\" for=\"form2-15-phone\">Phone</label>\n                                    <div class=\"form-icon\"><img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\"></div>\n                                    <input type=\"tel\" class=\"form-control\" name=\"phone\" data-form-field=\"Phone\" placeholder=\"Phone\" id=\"form2-15-phone\">\n                                </div>\n                            </div>\n\n                        </div>\n\n                        <div class=\"form-group\">\n                            <label class=\"form-control-label\" for=\"form2-15-message\">Message</label>\n                            <textarea class=\"form-control\" name=\"message\" rows=\"7\" data-form-field=\"Message\" placeholder=\"Message\" id=\"form2-15-message\"></textarea>\n                        </div>\n\n                        <div class=\"text-lg-left text-xs-center\"><button type=\"submit\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"100\">Get in Touch</button></div>\n\n                    </form>\n                </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section form1 mbr-background mbr-after-navbar\" style=\"background-image: url(@PROJECT_PATH@/assets/images/repair-2000x1333.jpg); padding-top: 160px; padding-bottom: 120px;\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.7; background-color: rgb(51, 51, 51);\">\n    </div>\n\n    <div class=\"container-fluid\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 col-lg-10 col-lg-offset-1 text-xs-center\">\n\n                <div class=\"col-xs-12 col-lg-6\">\n                    \n                    <p class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"122\">Do you want &nbsp;custom rifle? Fill out this form and we will be in touch!<br></p>\n\n                    <h1 class=\"mbr-section-title display-4 mbr-editable-content\" code-editable-id=\"123\"><strong>Create a Custom Rifle</strong></h1>\n                    <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"124\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui. Voluptas nam consectetur, dolorem sed quo qui iusto dolor!</p>\n\n                </div>\n                \n                <div class=\"col-xs-12 col-lg-6\" data-form-type=\"formoid\">\n\n\n                    <div data-form-alert=\"true\">\n                        <div hidden=\"\" data-form-alert-success=\"true\" class=\"alert alert-form alert-success text-xs-center\">Thanks for filling out form!</div>\n                    </div>\n\n\n                    <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"Create a Custom Rifle\">\n\n                        <input type=\"hidden\" value=\"NTOsaZqtcM33YDSRsreYY1RnK0HygWsKgxk4bHxjiQyQZlesd+vdXY0U1sxn3RfS8+kNtAWvGxXu3MiZ2UZCq8awwnIq8b3wzSBW+/wVCbsc5nOJ3xyXl8AaHpBQl9Ka\" data-form-email=\"true\">\n\n                        <div class=\"row row-sm-offset\">\n\n                            <div class=\"col-xs-12 col-md-4\">\n                                <div class=\"form-group\">\n                                    <label class=\"form-control-label\" for=\"form2-15-name\">Name<span class=\"form-asterisk\">*</span></label>\n                                    <div class=\"form-icon\"><img src=\"@PROJECT_PATH@/assets/images/icon-name.png\"></div>\n                                    <input type=\"text\" class=\"form-control\" name=\"name\" required=\"\" data-form-field=\"Name\" placeholder=\"Name*\" id=\"form2-15-name\">\n                                </div>\n                            </div>\n\n                            <div class=\"col-xs-12 col-md-4\">\n                                <div class=\"form-group\">\n                                    <label class=\"form-control-label\" for=\"form2-15-email\">Email<span class=\"form-asterisk\">*</span></label>\n                                    <div class=\"form-icon\"><img src=\"@PROJECT_PATH@/assets/images/icon-email.png\"></div>\n                                    <input type=\"email\" class=\"form-control\" name=\"email\" required=\"\" data-form-field=\"Email\" placeholder=\"Email*\" id=\"form2-15-email\">\n                                </div>\n                            </div>\n\n                            <div class=\"col-xs-12 col-md-4\">\n                                <div class=\"form-group\">\n                                    <label class=\"form-control-label\" for=\"form2-15-phone\">Phone</label>\n                                    <div class=\"form-icon\"><img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\"></div>\n                                    <input type=\"tel\" class=\"form-control\" name=\"phone\" data-form-field=\"Phone\" placeholder=\"Phone\" id=\"form2-15-phone\">\n                                </div>\n                            </div>\n\n                        </div>\n\n                        <div class=\"form-group\">\n                            <label class=\"form-control-label\" for=\"form2-15-message\">Message</label>\n                            <textarea class=\"form-control\" name=\"message\" rows=\"7\" data-form-field=\"Message\" placeholder=\"Message\" id=\"form2-15-message\"></textarea>\n                        </div>\n\n                        <div class=\"text-lg-left text-xs-center\"><button type=\"submit\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"125\">Get in Touch</button></div>\n\n                    </form>\n                </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\n.mbr-section-subtitle {\n\ttext-transform: uppercase;\n\tcolor: #ffffff;\n}\n.form-control-label {\n\tcolor: undefined;\n}\n.mbr-section-title {\n\tfont-family: 'Montserrat', sans-serif;\n\tfont-size: 60px;\n    color:#ffffff!important;\n}\n.mbr-section-title B {\n\tcolor: #ffffff;\n\tfont-size: 60px;\n}\n.mbr-section-text {\n\tcolor: #ffffff;\n}\n",
