@@ -985,13 +985,13 @@
               "family": "et-line"
             }
           },
-          "subtitle1": "<a href=\"smith-and-wesson.html\" class=\"text-white\">Guns</a>",
+          "subtitle1": "<a href=\"smith-and-wesson.html\" class=\"text-white\" style=\"font-style: normal;\">Guns</a>",
           "caption1": "",
           "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cleaning-1-600x40017.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cleaning-cat-600x400.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -1014,7 +1014,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/rifle-calibration-1-600x40018.jpg",
+              "src": "@PROJECT_PATH@/assets/images/optic-cat-600x400.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -1037,7 +1037,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/courses-thumb-600x40019.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mod-cat-600x400.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -1151,7 +1151,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/repair-1-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tactical-cat-600x400.jpg",
               "class": "features-img",
               "width": 600,
               "link": "signature-rifle.html",
@@ -1168,13 +1168,13 @@
               "family": "et-line"
             }
           },
-          "subtitle1": "<a href=\"signature-rifle.html\" class=\"text-white\">tactical rifles</a>",
+          "subtitle1": "<a href=\"signature-rifle.html\" class=\"text-white\" style=\"font-style: normal;\">tactical rifles</a>",
           "caption1": "",
           "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cleaning-1-600x400-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tools-cat-600x400.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -1197,7 +1197,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/rifle-calibration-1-600x400-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/acc-cat-600x400.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -1220,7 +1220,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/courses-thumb-600x400-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/all-products-cat-600x400.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -1972,8 +1972,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft20.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright21.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft22.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright23.png\">"
         },
         {
           "_styles": {
