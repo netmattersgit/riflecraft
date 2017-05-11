@@ -968,7 +968,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/repair-1-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/guns-cat-600x400.jpg",
               "class": "features-img",
               "width": 600,
               "link": "smith-and-wesson.html",
@@ -991,7 +991,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cleaning-1-600x40012.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cleaning-1-600x40017.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -1014,7 +1014,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/rifle-calibration-1-600x40013.jpg",
+              "src": "@PROJECT_PATH@/assets/images/rifle-calibration-1-600x40018.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -1037,7 +1037,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/courses-thumb-600x40014.jpg",
+              "src": "@PROJECT_PATH@/assets/images/courses-thumb-600x40019.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -1972,8 +1972,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft15.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright16.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft20.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright21.png\">"
         },
         {
           "_styles": {
