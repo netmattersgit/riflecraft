@@ -1021,10 +1021,12 @@ blockquote {
 #content1-2v H3 {
   color: #ffffff;
   font-family: 'Montserrat', sans-serif;
-  font-size: 36px;
+  font-size: 60px;
+  text-align: center;
 }
 #content1-2v P {
   color: #ffffff;
+  text-align: center;
 }
 #content3-2y .mbr-section-title,
 #content3-2y .mbr-section-subtitle {
@@ -1038,10 +1040,13 @@ blockquote {
 #content3-2y B {
   color: #ffffff;
   text-align: right;
-  font-size: 36px;
+  font-size: 60px;
 }
 #testimonials1-31 .card-block p {
   font-size: 15px;
+}
+#testimonials1-31 .mbr-section-title B {
+  font-size: 60px;
 }
 #form2-32 .mbr-section-subtitle {
   text-transform: uppercase;
@@ -1148,17 +1153,18 @@ blockquote {
 }
 #features7-1s .mbr-section-text {
   color: #ffffff;
-  font-size: 22px;
+  font-size: 20px;
 }
 #features7-1s .mbr-section-text B {
   font-size: 30px;
 }
 #features7-1s .mbr-section-title B {
-  font-size: 36px;
+  font-size: 60px;
 }
 #content1-29 P {
-  font-size: 24px;
+  font-size: 60px;
   color: #333333;
+  text-align: center;
 }
 #content1-29 H3 {
   font-size: 24px;
@@ -1190,7 +1196,7 @@ blockquote {
 }
 #features1-22 .mbr-section-title {
   font-weight: 700;
-  font-size: 30px;
+  font-size: 60px;
 }
 #features1-22 .mbr-section-subtitle {
   text-transform: uppercase;

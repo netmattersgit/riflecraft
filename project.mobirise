@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Riflecraft - New Concept",
-    "currentPage": "smith-and-wesson.html",
+    "currentPage": "shop.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -133,7 +133,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-m\" aria-expanded=\"false\">CUSTOMISE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">REPAIR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CLEAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CALIBRATE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GUNSMITHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TRAINING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OPTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONLINE SHOP</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-m\" aria-expanded=\"false\">CUSTOMISE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">REPAIR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CLEAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CALIBRATE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GUNSMITHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TRAINING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OPTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop.html\">ONLINE SHOP</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">CONTACT US</a></li>"
         },
         {
           "_styles": {
@@ -498,7 +498,7 @@
               "src": "@PROJECT_PATH@/assets/images/online-shop-thumb-1-600x400.jpg",
               "class": "features-img",
               "width": 600,
-              "link": "",
+              "link": "shop.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -512,7 +512,7 @@
               "family": "et-line"
             }
           },
-          "subtitle4": "Shop",
+          "subtitle4": "<a href=\"shop.html\">Shop</a>",
           "caption4": "We cater to your needs - not just with Rifles, but with Air Guns, Shotguns, equipment and Ammunition.<br>",
           "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "media5": {
@@ -739,7 +739,7 @@
           "text11": "",
           "text12": "",
           "text13": "",
-          "text14": "About Us<br>Brands<br>Register<br>Login<br>Gunsmithing<br>Training Courses<br>Optics<br>Shop",
+          "text14": "About Us<br>Brands<br>Register<br>Login<br>Gunsmithing<br>Training Courses<br>Optics<br><a href=\"shop.html\">Shop</a>",
           "text15": "",
           "title2": "CONTACT US",
           "text21": "Telephone: 01379 853 745<br>Fax: 01379 853421<br>Email: sales@riflecraft.co.uk<br><br>Enquiry Form<br>Opening Times<br>Visit Us",
@@ -833,7 +833,7 @@
                 "videoPreview": "file:///C:/Users/scott.aldridge/AppData/Local/Mobirise.com/Mobirise/projectData/preview_1.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2-2000x1333-800x533-1.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2-2000x1333-1.jpg",
-                "caption": "Guns",
+                "caption": "<a href=\"smith-and-wesson.html\" class=\"text-white\">Guns</a>",
                 "active": true
               },
               {
@@ -984,7 +984,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-m\" aria-expanded=\"false\">CUSTOMISE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">REPAIR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CLEAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CALIBRATE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GUNSMITHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TRAINING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OPTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONLINE SHOP</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-m\" aria-expanded=\"false\">CUSTOMISE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">REPAIR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CLEAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CALIBRATE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GUNSMITHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TRAINING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OPTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop.html\">ONLINE SHOP</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">CONTACT US</a></li>"
         },
         {
           "alias": "colorm/components",
@@ -1009,7 +1009,7 @@
                 "videoPreview": "file:///C:/Users/scott.aldridge/AppData/Local/Mobirise.com/Mobirise/projectData/preview_2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2-2000x1333-800x533-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2-2000x1333-2.jpg",
-                "caption": "<p>Tactical Rifles</p>",
+                "caption": "<p><a href=\"signature-rifle.html\" class=\"text-white\">Tactical Rifles</a></p>",
                 "active": false
               },
               {
@@ -1109,7 +1109,7 @@
           "text11": "",
           "text12": "",
           "text13": "",
-          "text14": "About Us<br>Brands<br>Register<br>Login<br>Gunsmithing<br>Training Courses<br>Optics<br>Shop",
+          "text14": "About Us<br>Brands<br>Register<br>Login<br>Gunsmithing<br>Training Courses<br>Optics<br><a href=\"shop.html\">Shop</a>",
           "text15": "",
           "title2": "CONTACT US",
           "text21": "Telephone: 01379 853 745<br>Fax: 01379 853421<br>Email: sales@riflecraft.co.uk<br><br>Enquiry Form<br>Opening Times<br>Visit Us",
@@ -1254,7 +1254,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-m\" aria-expanded=\"false\">CUSTOMISE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">REPAIR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CLEAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CALIBRATE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GUNSMITHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TRAINING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OPTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONLINE SHOP</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-m\" aria-expanded=\"false\">CUSTOMISE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">REPAIR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CLEAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CALIBRATE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GUNSMITHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TRAINING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OPTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop.html\">ONLINE SHOP</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">CONTACT US</a></li>"
         },
         {
           "_styles": {
@@ -1319,9 +1319,9 @@
           "_name": "content1",
           "_anchor": "content1-2v",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#666666"
+            "bgColor": "#445647"
           },
           "text": "<h3><b>Lorem Ipsum - Signature Rifle</b></h3>The LR1000 draws heritage from our original concept of the perfect all around rifle. Back then we set the industry on a new course, by defining the long range shooting system. Basically, we combine rifle, ammunition, rifle scope, ballistic matched turret, and ballistic rangefinder in a shooting system for any shot. With our efforts, setting up the system, breaking in the barrel, validating accuracy and precision, and measuring the long range performance of the projectile to develop the True Ballistic Profile, we can truly deliver \"1000 Yards Out Of The Box\"!<br><br>After ten years, the LR1000 still offers features and functionality that is unmatched by our competitors. The secret is in the engineered design of the components and system. Instead of bolting together the components everyone else uses, we design and manufacture unique parts that are only available through Gunwerks. When you combine these parts in a proven system, with each rifle tested to 1000 yards, you can expect the out-of-the-box performance Gunwerks is renowned for.<br>",
           "_styles": {
@@ -1329,10 +1329,12 @@
               "color": "#ffffff",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "36px"
+              "font-size": "60px",
+              "text-align": "center"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           }
         },
@@ -1348,7 +1350,7 @@
           "_params": {
             "showImages": false,
             "tabs": "3",
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -1633,7 +1635,7 @@
             "B": {
               "color": "#ffffff",
               "text-align": "right",
-              "font-size": "36px"
+              "font-size": "60px"
             }
           },
           "_tags": [
@@ -1642,7 +1644,7 @@
           "_name": "content3",
           "_anchor": "content3-2y",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#666666",
             "showMeta": true
@@ -1746,13 +1748,16 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft2.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright3.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft4.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright5.png\">"
         },
         {
           "_styles": {
             ".card-block p": {
               "font-size": "15px"
+            },
+            ".mbr-section-title B": {
+              "font-size": "60px"
             }
           },
           "alias": "colorm/components",
@@ -1985,7 +1990,7 @@
           "text11": "",
           "text12": "",
           "text13": "",
-          "text14": "About Us<br>Brands<br>Register<br>Login<br>Gunsmithing<br>Training Courses<br>Optics<br>Shop",
+          "text14": "About Us<br>Brands<br>Register<br>Login<br>Gunsmithing<br>Training Courses<br>Optics<br><a href=\"shop.html\">Shop</a>",
           "text15": "",
           "title2": "CONTACT US",
           "text21": "Telephone: 01379 853 745<br>Fax: 01379 853421<br>Email: sales@riflecraft.co.uk<br><br>Enquiry Form<br>Opening Times<br>Visit Us",
@@ -2130,7 +2135,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-m\" aria-expanded=\"false\">CUSTOMISE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">REPAIR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CLEAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CALIBRATE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GUNSMITHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TRAINING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OPTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONLINE SHOP</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-m\" aria-expanded=\"false\">CUSTOMISE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">REPAIR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CLEAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CALIBRATE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GUNSMITHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TRAINING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OPTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop.html\">ONLINE SHOP</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">CONTACT US</a></li>"
         },
         {
           "_styles": {
@@ -2146,13 +2151,13 @@
             },
             ".mbr-section-text": {
               "color": "#ffffff",
-              "font-size": "22px"
+              "font-size": "20px"
             },
             ".mbr-section-text B": {
               "font-size": "30px"
             },
             ".mbr-section-title B": {
-              "font-size": "36px"
+              "font-size": "60px"
             }
           },
           "title2": "Responsive",
@@ -2232,8 +2237,9 @@
           "text": "<p><b>FEATURES</b></p>",
           "_styles": {
             "P": {
-              "font-size": "24px",
-              "color": "#333333"
+              "font-size": "60px",
+              "color": "#333333",
+              "text-align": "center"
             },
             "H3": {
               "font-size": "24px"
@@ -2315,7 +2321,7 @@
           "text11": "",
           "text12": "",
           "text13": "",
-          "text14": "About Us<br>Brands<br>Register<br>Login<br>Gunsmithing<br>Training Courses<br>Optics<br>Shop",
+          "text14": "About Us<br>Brands<br>Register<br>Login<br>Gunsmithing<br>Training Courses<br>Optics<br><a href=\"shop.html\">Shop</a>",
           "text15": "",
           "title2": "CONTACT US",
           "text21": "Telephone: 01379 853 745<br>Fax: 01379 853421<br>Email: sales@riflecraft.co.uk<br><br>Enquiry Form<br>Opening Times<br>Visit Us",
@@ -2418,7 +2424,7 @@
           "_styles": {
             ".mbr-section-title": {
               "font-weight": "700",
-              "font-size": "30px"
+              "font-size": "60px"
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase",
@@ -2706,7 +2712,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-m\" aria-expanded=\"false\">CUSTOMISE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">REPAIR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CLEAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CALIBRATE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GUNSMITHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TRAINING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OPTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONLINE SHOP</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-m\" aria-expanded=\"false\">CUSTOMISE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">REPAIR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CLEAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CALIBRATE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GUNSMITHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TRAINING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OPTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop.html\">ONLINE SHOP</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">CONTACT US</a></li>"
         },
         {
           "alias": "colorm/components",
@@ -3024,7 +3030,7 @@
           "text11": "",
           "text12": "",
           "text13": "",
-          "text14": "About Us<br>Brands<br>Register<br>Login<br>Gunsmithing<br>Training Courses<br>Optics<br>Shop",
+          "text14": "About Us<br>Brands<br>Register<br>Login<br>Gunsmithing<br>Training Courses<br>Optics<br><a href=\"shop.html\">Shop</a>",
           "text15": "",
           "title2": "CONTACT US",
           "text21": "Telephone: 01379 853 745<br>Fax: 01379 853421<br>Email: sales@riflecraft.co.uk<br><br>Enquiry Form<br>Opening Times<br>Visit Us",
