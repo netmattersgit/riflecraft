@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Riflecraft - New Concept",
-    "currentPage": "signature-rifle.html",
+    "currentPage": "shop.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -985,7 +985,7 @@
               "family": "et-line"
             }
           },
-          "subtitle1": "<a href=\"smith-and-wesson.html\" class=\"text-white\" style=\"font-style: normal;\">Guns</a>",
+          "subtitle1": "<a href=\"smith-and-wesson.html\" class=\"text-white\" style=\"font-style: normal;\"><b>Guns</b></a>",
           "caption1": "",
           "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "media2": {
@@ -1008,7 +1008,7 @@
               "family": "et-line"
             }
           },
-          "subtitle2": "CLEANING",
+          "subtitle2": "<b>CLEANING</b>",
           "caption2": "",
           "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "media3": {
@@ -1031,7 +1031,7 @@
               "family": "et-line"
             }
           },
-          "subtitle3": "OPTICS",
+          "subtitle3": "<b>OPTICS</b>",
           "caption3": "",
           "buttons3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "media4": {
@@ -1054,7 +1054,7 @@
               "family": "et-line"
             }
           },
-          "subtitle4": "MODERATORS",
+          "subtitle4": "<b>MODERATORS</b>",
           "caption4": "",
           "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "media5": {
@@ -1127,7 +1127,7 @@
           "_anchor": "features1-37",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "file:///C:/Users/scott.aldridge/AppData/Local/Mobirise.com/Mobirise/projectData/03_2.jpg",
@@ -1168,7 +1168,7 @@
               "family": "et-line"
             }
           },
-          "subtitle1": "<a href=\"signature-rifle.html\" class=\"text-white\" style=\"font-style: normal;\">tactical rifles</a>",
+          "subtitle1": "<a href=\"signature-rifle.html\" class=\"text-white\" style=\"font-style: normal;\"><b>tactical rifles</b></a>",
           "caption1": "",
           "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "media2": {
@@ -1191,7 +1191,7 @@
               "family": "et-line"
             }
           },
-          "subtitle2": "tools",
+          "subtitle2": "<b>tools</b>",
           "caption2": "",
           "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "media3": {
@@ -1214,7 +1214,7 @@
               "family": "et-line"
             }
           },
-          "subtitle3": "accessories",
+          "subtitle3": "<b>accessories</b>",
           "caption3": "",
           "buttons3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "media4": {
@@ -1237,7 +1237,7 @@
               "family": "et-line"
             }
           },
-          "subtitle4": "all products",
+          "subtitle4": "<b>all products</b>",
           "caption4": "",
           "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "media5": {
@@ -1979,8 +1979,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft28.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright29.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft30.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright31.png\">"
         },
         {
           "_styles": {
