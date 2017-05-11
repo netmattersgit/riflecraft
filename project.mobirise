@@ -512,7 +512,7 @@
               "family": "et-line"
             }
           },
-          "subtitle4": "<a href=\"shop.html\" class=\"text-white\">Shop</a>",
+          "subtitle4": "<a href=\"shop.html\" class=\"text-info\" style=\"font-style: normal;\">Shop</a>",
           "caption4": "We cater to your needs - not just with Rifles, but with Air Guns, Shotguns, equipment and Ammunition.<br>",
           "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "media5": {
@@ -1748,8 +1748,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft8.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright9.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft10.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright11.png\">"
         },
         {
           "_styles": {
