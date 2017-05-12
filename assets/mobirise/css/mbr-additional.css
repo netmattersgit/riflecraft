@@ -1343,6 +1343,9 @@ blockquote {
 #form2-15 {
   
 }
+#form2-15 .form-control-label {
+  color: undefined;
+}
 #form2-15 .mbr-section-subtitle {
   text-transform: uppercase;
   color: #ffffff;
