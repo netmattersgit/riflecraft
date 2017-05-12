@@ -850,6 +850,7 @@ blockquote {
 
 
 
+
 #content3-19 .mbr-section-title,
 #content3-19 .mbr-section-subtitle {
   text-align: center;
@@ -929,6 +930,55 @@ blockquote {
 #menu-16 .link[aria-expanded="true"],
 #menu-16 .dropdown-item[aria-expanded="true"] {
   color: #445647!important;
+}
+#content3-3f .mbr-section-title,
+#content3-3f .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-3f H3 {
+  font-size: 60px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+#content3-3f B {
+  color: #333333;
+}
+#shop1-3d .galleryItem h4:hover {
+  color: #445647;
+}
+#shop1-3d .mbr-gallery-filter ul li.active {
+  color: #445647;
+}
+#shop1-3d .mbr-gallery-filter ul li:hover {
+  color: #445647;
+}
+#shop1-3d .mbr-gallery-filter ul li:before {
+  background: #445647;
+}
+#shop1-3d .min-toggle:hover,
+#shop1-3d .max-toggle:hover {
+  background-color: #445647;
+}
+#shop1-3d .shop-title {
+  font-family: Montserrat;
+}
+#shop1-3d .categories-titles .mbr-gallery-filter ul li {
+  font-family: Montserrat;
+}
+#shop1-3d .max-input {
+  font-family: Montserrat;
+}
+#shop1-3d .min-input {
+  font-family: Montserrat;
+}
+#shop1-3d .item-title {
+  font-family: Montserrat;
+}
+#shop1-3d .card-description {
+  font-family: Open Sans;
+}
+#shop1-3d .shop-item-price {
+  font-family: Montserrat;
 }
 #features1-36 .mbr-section-title {
   font-weight: 700;
@@ -1086,9 +1136,6 @@ blockquote {
 #form2-32 .mbr-section-subtitle {
   text-transform: uppercase;
   color: #ffffff;
-}
-#form2-32 .form-control-label {
-  color: undefined;
 }
 #form2-32 .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
@@ -1312,9 +1359,6 @@ blockquote {
 }
 #form2-15 {
   
-}
-#form2-15 .form-control-label {
-  color: undefined;
 }
 #form2-15 .mbr-section-subtitle {
   text-transform: uppercase;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Riflecraft - New Concept",
-    "currentPage": "signature-rifle.html",
+    "currentPage": "shop.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12",
-    "uniqCompNum": 118,
+    "uniqCompNum": 124,
     "versionPublish": "3.12"
   },
   "pages": {
@@ -133,7 +133,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-m\" aria-expanded=\"false\">CUSTOMISE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">REPAIR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CLEAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CALIBRATE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GUNSMITHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TRAINING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OPTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop.html\">ONLINE SHOP</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RIFLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signature-rifle.html\">Signature Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Custom Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Semi-Custom Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Used Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Shotguns</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">GUNSMITHING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Rebarreling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Synthetic Bedding<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Trigger Replacement<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Threading<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Recrowning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ceracote<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Services &amp; Repairs<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">TRAINING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"shop.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SHOP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Guns</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Cleaning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Optics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Moderators</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Clothing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Accessories</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#features1-l\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">CONTACT US</a></li>"
         },
         {
           "_styles": {
@@ -808,12 +808,12 @@
           "_name": "content3",
           "_anchor": "content3-19",
           "_params": {
-            "paddingTop": "6",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgColor": "#333333",
             "showMeta": true
           },
-          "title": "<b>Online Shop</b>",
+          "title": "",
           "meta": ""
         },
         {
@@ -913,7 +913,215 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-m\" aria-expanded=\"false\">CUSTOMISE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">REPAIR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CLEAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CALIBRATE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GUNSMITHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TRAINING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OPTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop.html\">ONLINE SHOP</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RIFLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signature-rifle.html\">Signature Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Custom Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Semi-Custom Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Used Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Shotguns</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">GUNSMITHING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Rebarreling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Synthetic Bedding<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Trigger Replacement<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Threading<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Recrowning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ceracote<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Services &amp; Repairs<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">TRAINING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"shop.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SHOP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Guns</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Cleaning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Optics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Moderators</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Clothing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Accessories</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#features1-l\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">CONTACT US</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "60px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#333333"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-3f",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgColor": "#eeeeee",
+            "showMeta": true
+          },
+          "title": "<b>Online Shop</b>",
+          "meta": ""
+        },
+        {
+          "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "shop1",
+          "_params": {
+            "showSidebar": true,
+            "showSortButtons": true,
+            "showStars": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "filterBgColor": false,
+            "fontHoverColor": "@primaryColor",
+            "mainTitle": "@titleFont",
+            "mainSubTitle": "@subtitleFont",
+            "mainText": "@textFont",
+            "images": [
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Guns",
+                "bestSeller": true,
+                "thumb": "@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800.jpg",
+                "onsale": "SALE 50% OFF",
+                "itemTitle": "SMITH &amp; WESSON M&amp;P 15-22 SPORT MOE SL",
+                "itemSubtitle": "Lorem ipsum dolor sit amet",
+                "starsImg": "@PROJECT_PATH@/assets/images/4.png",
+                "stars": "@PROJECT_PATH@/assets/images/4.png",
+                "itemPrice": "£120.00",
+                "itemDescription": "<ul><li>Lorem ipsum dolor sit amet.</li><li>Consectetur adipiscing elit.</li><li>Sed do eiusmod tempor.</li><li>Incididunt ut labore et dolore.</li></ul><p><br></p><p>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>367DDF5p</b></p>",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "tags": "Cleaning",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000.jpg",
+                "onsale": "SALE 50% OFF",
+                "itemTitle": "KIMBER RIFLE 8400 POLICE TACTICAL .308 WIN",
+                "itemSubtitle": "Lorem ipsum dolor sit amet.",
+                "starsImg": "@PROJECT_PATH@/assets/images/2.png",
+                "stars": "@PROJECT_PATH@/assets/images/2.png",
+                "itemPrice": "£120.00",
+                "itemDescription": "<ul><li>Lorem ipsum dolor sit amet.</li><li>Consectetur adipiscing elit.</li><li>Sed do eiusmod tempor.</li><li>Incididunt ut labore et dolore.<div><br></div></li></ul><p></p><ul></ul><p></p><p>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.</p><p><br></p><p>Product code: 367DDF5p</p>",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
+                "active": false
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "tags": "Optics",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800.jpg",
+                "onsale": "SALE 50% OFF",
+                "itemTitle": "HOWA 1500 HS3 TACTICAL TARGET RIFLE",
+                "itemSubtitle": "Lorem ipsum dolor sit amet.",
+                "starsImg": "@PROJECT_PATH@/assets/images/3.png",
+                "stars": "@PROJECT_PATH@/assets/images/3.png",
+                "itemPrice": "£120.00",
+                "itemDescription": "Some cool bicycle.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>3476DF5p</b>",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
+                "active": false
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "tags": "Moderators",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800-800x800-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800-800x800.jpg",
+                "onsale": "SALE 50% OFF",
+                "itemTitle": "RUGER PRECISION RIFLE.308",
+                "itemSubtitle": "Lorem ipsum dolor sit amet.",
+                "starsImg": "@PROJECT_PATH@/assets/images/5.png",
+                "stars": "@PROJECT_PATH@/assets/images/5.png",
+                "itemPrice": "£120.00",
+                "itemDescription": "You should believe it works, otherwise there is no magic!<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>3478DF5p</b>",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
+                "active": false
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "tags": "Tactical Rifles",
+                "bestSeller": true,
+                "thumb": "@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800-800x800-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800-800x800.jpg",
+                "onsale": "SALE 50% OFF",
+                "itemTitle": "KIMBER RIFLE 84M LPT.223 REM",
+                "itemSubtitle": "Lorem ipsum dolor sit amet.",
+                "starsImg": "@PROJECT_PATH@/assets/images/3.png",
+                "stars": "@PROJECT_PATH@/assets/images/3.png",
+                "itemPrice": "£120.00<br>",
+                "itemDescription": "Has no weight! Try not to lose it.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>34GFDF5p</b>",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline btn-primary-outline\">Buy now!</a>",
+                "active": false
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "tags": "Tools",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800.jpg",
+                "onsale": "SALE 50% OFF",
+                "itemTitle": "KIMBER RIFLE 8400 PATROL .308",
+                "itemSubtitle": "Lorem ipsum dolor sit amet.",
+                "starsImg": "@PROJECT_PATH@/assets/images/1.png",
+                "stars": "@PROJECT_PATH@/assets/images/1.png",
+                "itemPrice": "£120.00<br>",
+                "itemDescription": "Casual shoes (contact us for sizing)<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>385DDF5p</b>",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
+                "active": false
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "tags": "Accessories",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800-800x800-800x800-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800-800x800-800x800.jpg",
+                "onsale": "SALE 50% OFF",
+                "itemTitle": "SMITH &amp; WESSON M&amp;P 15-22 SPORT",
+                "itemSubtitle": "Lorem ipsum dolor sit amet.",
+                "starsImg": "@PROJECT_PATH@/assets/images/3.png",
+                "stars": "@PROJECT_PATH@/assets/images/3.png",
+                "itemPrice": "£120.00",
+                "itemDescription": "Seen on photo. Check our gallery for more photos.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>340DDF5p</b>",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
+                "active": false
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "tags": "Guns",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800-800x800-800x800-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800-800x800-800x800.jpg",
+                "onsale": "SALE 50% OFF",
+                "itemTitle": "KIMBER RIFLE 8400 POLICE TACTICAL .308 WIN",
+                "itemSubtitle": "Lorem ipsum dolor sit amet.",
+                "starsImg": "@PROJECT_PATH@/assets/images/4.png",
+                "stars": "@PROJECT_PATH@/assets/images/4.png",
+                "itemPrice": "£120.00",
+                "itemDescription": "Hand-made! So they may differ.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>34556F5p</b>",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
+                "active": false
+              }
+            ],
+            "bgColor": "#f5f5f5",
+            "showTitle": false,
+            "showBestSellers": false,
+            "priceRange": true,
+            "filter": true
+          },
+          "_anchor": "shop1-3d",
+          "title": "Shop",
+          "filter_by_d": "<a data-app-btn=\"true\" class=\"btn btn-primary\">Default sorting</a>",
+          "filter_by_pu": "<a data-app-btn=\"true\" class=\"btn btn-primary disableSortButton\">Price: low to high</a>",
+          "filter_by_pd": "<a data-app-btn=\"true\" class=\"btn btn-primary disableSortButton\">Price: high to low</a>",
+          "articleLayout": false,
+          "sidebar1": "Best Sellers",
+          "sidebar2": "Filter by price",
+          "price_range": "<a class=\"btn btn-primary filterPriceRange\">Filter</a>",
+          "price_range_reset": "<a class=\"btn btn-secondary showAll\">Show all</a>",
+          "sidebar3": "Product Categories",
+          "allItem": "All",
+          "_customHTML": "<section class=\"mbr-gallery mbr-section shop1\" style=\"background-color: rgb(245, 245, 245); padding-top: 3rem; padding-bottom: 3rem;\">\n    <!-- Gallery -->\n    <div class=\"col-md-9 clearfix\">\n      \n      <div class=\"sort-buttons\" style=\"display: block;\">\n          <div class=\"filter-by-d\"><a class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"1579\">Default sorting</a></div>\n          <div class=\"filter-by-pu\"><a class=\"btn btn-primary disableSortButton mbr-editable-button\" code-editable-id=\"1580\">Price: low to high</a></div>\n          <div class=\"filter-by-pd\"><a class=\"btn btn-primary disableSortButton mbr-editable-button\" code-editable-id=\"1581\">Price: high to low</a></div>\n      </div>\n    </div> \n    <div class=\"col-md-12\">\n        <div class=\"col-md-3 sidebar\" style=\"display: block;\">\n            <div class=\"sidebar-background\"></div>\n                \n                <div class=\"sidebar-block container range-slider\" onselectstart=\"return false\">\n                    <h4 class=\"sidebar-title mbr-editable-content\" code-editable-id=\"1582\">Filter by price</h4>\n                    <div class=\"filter-cost\" onselectstart=\"return false\">\n                        <div class=\"price-controls\">\n                          <label class=\"min-price\">\n                            <input class=\"min-input\" type=\"text\" value=\"auto\" name=\"min\">\n                          </label>\n                          <label class=\"max-price\">\n                            <input class=\"max-input\" type=\"text\" value=\"auto\" name=\"max\">\n                          </label>\n                        </div>\n\n                        <div class=\"range-controls\">\n                          <div class=\"scale\">\n                            <div class=\"bar\"></div>\n                          </div>\n\n                          <div class=\"toggle min-toggle\"></div>\n                          <div class=\"toggle max-toggle\"></div>\n                        </div>\n                    </div> \n                    <div class=\"price-range\"><a class=\"btn btn-primary filterPriceRange\">Filter</a></div>\n                    <div class=\"price-range-reset\"><a class=\"btn btn-secondary showAll\">Show all</a></div>\n                </div>\n                <div class=\"sidebar-block container sidebar-categories\">\n                    <h4 class=\"sidebar-title mbr-editable-content\" code-editable-id=\"1583\">Product Categories</h4>\n                    <div class=\"categories col-md-12\">\n                        <div class=\"categories-titles\">\n                          <!-- Filter -->\n                          <div class=\"mbr-gallery-filter container gallery-filter-active\">\n                                  <ul>\n                                    <li class=\"mbr-gallery-filter-all active mbr-editable-content\" code-editable-id=\"1584\">All</li>\n                                    <li class=\"mbr-gallery-filter-all active mbr-editable-content\" code-editable-id=\"1585\">Guns</li>\n                                    <li class=\"mbr-gallery-filter-all active mbr-editable-content\" code-editable-id=\"1586\">Cleaning</li>\n                                    <li class=\"mbr-gallery-filter-all active mbr-editable-content\" code-editable-id=\"1587\">Optics</li>\n                                    <li class=\"mbr-gallery-filter-all active mbr-editable-content\" code-editable-id=\"1588\">Moderators</li>                                       <li class=\"mbr-gallery-filter-all active mbr-editable-content\" code-editable-id=\"1589\">Tactical Rifles</li>\n                                    <li class=\"mbr-gallery-filter-all active mbr-editable-content\" code-editable-id=\"1590\">Tools</li>\n                                    <li class=\"mbr-gallery-filter-all active mbr-editable-content\" code-editable-id=\"1591\">Accessories</li>\n                                  </ul>\n                                </div>\n                        </div>\n                    </div>\n                </div>\n        </div>\n        <div class=\"col-md-9\">\n          <div class=\"mbr-gallery-row\">\n                  <div>\n                      <div class=\"shop-items\">\n                          <div class=\"mbr-gallery-item mbr-gallery-item__mobirise3\" data-tags=\"Guns\" data-seller=\"true\" price=\"120.00\">\n                              <div class=\"galleryItem\" href=\"#lb-shop1-3d\" data-slide-to=\"0\" data-toggle=\"modal\">\n                              <div class=\"item_overlay\"></div>\n                                  <div class=\"img_wraper\">\n                                    <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800-800x800.jpg\">\n                                  </div> \n                                  <span class=\"onsale mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1592\">SALE 50% OFF</span>\n                                  <div class=\"sidebar_wraper\"> \n                                      <h4 class=\"item-title mbr-editable-content\" code-editable-id=\"1593\">SMITH &amp; WESSON M&amp;P 15-22 SPORT MOE SL</h4>\n                                      <h5 class=\"item-subtitle mbr-editable-content\" code-editable-id=\"1594\">Lorem ipsum dolor sit amet</h5>\n                                      <div class=\"stars_wraper\" style=\"display: none;\">\n                                          <img class=\"stars\" alt=\"\" src=\"@PROJECT_PATH@/assets/images/4.png\" data-stars=\"@PROJECT_PATH@/assets/images/4.png\">\n                                      </div> \n                                      <div class=\"price-block\">\n                                          <span class=\"shop-item-price mbr-editable-content\" code-editable-id=\"1595\">£120.00</span>\n                                      </div>\n                                      <div class=\"card-description mbr-editable-full\" code-editable-id=\"1596\"><ul><li>Lorem ipsum dolor sit amet.</li><li>Consectetur adipiscing elit.</li><li>Sed do eiusmod tempor.</li><li>Incididunt ut labore et dolore.</li></ul><p><br></p><p>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <strong>367DDF5p</strong></p></div>   \n                                      <div class=\"mbr-section-btn item-button\" style=\"text-align: center;\"><a href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline mbr-editable-button\" style=\"position: relative; display: inline-block;\" code-editable-id=\"1597\">Buy now!</a></div>\n                                  </div>        \n                              </div>\n                          </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3\" data-tags=\"Cleaning\" data-seller=\"false\" price=\"120.00\">\n                              <div class=\"galleryItem\" href=\"#lb-shop1-3d\" data-slide-to=\"1\" data-toggle=\"modal\">\n                              <div class=\"item_overlay\"></div>\n                                  <div class=\"img_wraper\">\n                                    <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800.jpg\">\n                                  </div> \n                                  <span class=\"onsale mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1598\">SALE 50% OFF</span>\n                                  <div class=\"sidebar_wraper\"> \n                                      <h4 class=\"item-title mbr-editable-content\" code-editable-id=\"1599\">KIMBER RIFLE 8400 POLICE TACTICAL .308 WIN</h4>\n                                      <h5 class=\"item-subtitle mbr-editable-content\" code-editable-id=\"1600\">Lorem ipsum dolor sit amet.</h5>\n                                      <div class=\"stars_wraper\" style=\"display: none;\">\n                                          <img class=\"stars\" alt=\"\" src=\"@PROJECT_PATH@/assets/images/2.png\" data-stars=\"@PROJECT_PATH@/assets/images/2.png\">\n                                      </div> \n                                      <div class=\"price-block\">\n                                          <span class=\"shop-item-price mbr-editable-content\" code-editable-id=\"1601\">£120.00</span>\n                                      </div>\n                                      <div class=\"card-description mbr-editable-full\" code-editable-id=\"1602\"><ul><li>Lorem ipsum dolor sit amet.</li><li>Consectetur adipiscing elit.</li><li>Sed do eiusmod tempor.</li><li>Incididunt ut labore et dolore.<div><br></div></li></ul><p></p><ul></ul><p></p><p>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.</p><p><br></p><p>Product code: 367DDF5p</p></div>   \n                                      <div class=\"mbr-section-btn item-button\" style=\"text-align: center;\"><a href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline mbr-editable-button\" style=\"position: relative; display: inline-block;\" code-editable-id=\"1603\">Buy now!</a></div>\n                                  </div>        \n                              </div>\n                          </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3\" data-tags=\"Optics\" data-seller=\"false\" price=\"120.00\">\n                              <div class=\"galleryItem\" href=\"#lb-shop1-3d\" data-slide-to=\"2\" data-toggle=\"modal\">\n                              <div class=\"item_overlay\"></div>\n                                  <div class=\"img_wraper\">\n                                    <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800-800x800.jpg\">\n                                  </div> \n                                  <span class=\"onsale mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1604\">SALE 50% OFF</span>\n                                  <div class=\"sidebar_wraper\"> \n                                      <h4 class=\"item-title mbr-editable-content\" code-editable-id=\"1605\">HOWA 1500 HS3 TACTICAL TARGET RIFLE</h4>\n                                      <h5 class=\"item-subtitle mbr-editable-content\" code-editable-id=\"1606\">Lorem ipsum dolor sit amet.</h5>\n                                      <div class=\"stars_wraper\" style=\"display: none;\">\n                                          <img class=\"stars\" alt=\"\" src=\"@PROJECT_PATH@/assets/images/3.png\" data-stars=\"@PROJECT_PATH@/assets/images/3.png\">\n                                      </div> \n                                      <div class=\"price-block\">\n                                          <span class=\"shop-item-price mbr-editable-content\" code-editable-id=\"1607\">£120.00</span>\n                                      </div>\n                                      <div class=\"card-description mbr-editable-full\" code-editable-id=\"1608\">Some cool bicycle.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <strong>3476DF5p</strong></div>   \n                                      <div class=\"mbr-section-btn item-button\" style=\"text-align: center;\"><a href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline mbr-editable-button\" style=\"position: relative; display: inline-block;\" code-editable-id=\"1609\">Buy now!</a></div>\n                                  </div>        \n                              </div>\n                          </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3\" data-tags=\"Moderators\" data-seller=\"false\" price=\"120.00\">\n                              <div class=\"galleryItem\" href=\"#lb-shop1-3d\" data-slide-to=\"3\" data-toggle=\"modal\">\n                              <div class=\"item_overlay\"></div>\n                                  <div class=\"img_wraper\">\n                                    <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800-800x800-800x800.jpg\">\n                                  </div> \n                                  <span class=\"onsale mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1610\">SALE 50% OFF</span>\n                                  <div class=\"sidebar_wraper\"> \n                                      <h4 class=\"item-title mbr-editable-content\" code-editable-id=\"1611\">RUGER PRECISION RIFLE.308</h4>\n                                      <h5 class=\"item-subtitle mbr-editable-content\" code-editable-id=\"1612\">Lorem ipsum dolor sit amet.</h5>\n                                      <div class=\"stars_wraper\" style=\"display: none;\">\n                                          <img class=\"stars\" alt=\"\" src=\"@PROJECT_PATH@/assets/images/5.png\" data-stars=\"@PROJECT_PATH@/assets/images/5.png\">\n                                      </div> \n                                      <div class=\"price-block\">\n                                          <span class=\"shop-item-price mbr-editable-content\" code-editable-id=\"1613\">£120.00</span>\n                                      </div>\n                                      <div class=\"card-description mbr-editable-full\" code-editable-id=\"1614\">You should believe it works, otherwise there is no magic!<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <strong>3478DF5p</strong></div>   \n                                      <div class=\"mbr-section-btn item-button\" style=\"text-align: center;\"><a href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline mbr-editable-button\" style=\"position: relative; display: inline-block;\" code-editable-id=\"1615\">Buy now!</a></div>\n                                  </div>        \n                              </div>\n                          </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3\" data-tags=\"Tactical Rifles\" data-seller=\"true\" price=\"120.00\">\n                              <div class=\"galleryItem\" href=\"#lb-shop1-3d\" data-slide-to=\"4\" data-toggle=\"modal\">\n                              <div class=\"item_overlay\"></div>\n                                  <div class=\"img_wraper\">\n                                    <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800-800x800-800x800.jpg\">\n                                  </div> \n                                  <span class=\"onsale mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1616\">SALE 50% OFF</span>\n                                  <div class=\"sidebar_wraper\"> \n                                      <h4 class=\"item-title mbr-editable-content\" code-editable-id=\"1617\">KIMBER RIFLE 84M LPT.223 REM</h4>\n                                      <h5 class=\"item-subtitle mbr-editable-content\" code-editable-id=\"1618\">Lorem ipsum dolor sit amet.</h5>\n                                      <div class=\"stars_wraper\" style=\"display: none;\">\n                                          <img class=\"stars\" alt=\"\" src=\"@PROJECT_PATH@/assets/images/3.png\" data-stars=\"@PROJECT_PATH@/assets/images/3.png\">\n                                      </div> \n                                      <div class=\"price-block\">\n                                          <span class=\"shop-item-price mbr-editable-content\" code-editable-id=\"1619\">£120.00<br></span>\n                                      </div>\n                                      <div class=\"card-description mbr-editable-full\" code-editable-id=\"1620\">Has no weight! Try not to lose it.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <strong>34GFDF5p</strong></div>   \n                                      <div class=\"mbr-section-btn item-button\" style=\"text-align: center;\"><a href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline btn-primary-outline mbr-editable-button\" style=\"position: relative; display: inline-block;\" code-editable-id=\"1621\">Buy now!</a></div>\n                                  </div>        \n                              </div>\n                          </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3\" data-tags=\"Tools\" data-seller=\"false\" price=\"120.00\">\n                              <div class=\"galleryItem\" href=\"#lb-shop1-3d\" data-slide-to=\"5\" data-toggle=\"modal\">\n                              <div class=\"item_overlay\"></div>\n                                  <div class=\"img_wraper\">\n                                    <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800-800x800.jpg\">\n                                  </div> \n                                  <span class=\"onsale mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1622\">SALE 50% OFF</span>\n                                  <div class=\"sidebar_wraper\"> \n                                      <h4 class=\"item-title mbr-editable-content\" code-editable-id=\"1623\">KIMBER RIFLE 8400 PATROL .308</h4>\n                                      <h5 class=\"item-subtitle mbr-editable-content\" code-editable-id=\"1624\">Lorem ipsum dolor sit amet.</h5>\n                                      <div class=\"stars_wraper\" style=\"display: none;\">\n                                          <img class=\"stars\" alt=\"\" src=\"@PROJECT_PATH@/assets/images/1.png\" data-stars=\"@PROJECT_PATH@/assets/images/1.png\">\n                                      </div> \n                                      <div class=\"price-block\">\n                                          <span class=\"shop-item-price mbr-editable-content\" code-editable-id=\"1625\">£120.00<br></span>\n                                      </div>\n                                      <div class=\"card-description mbr-editable-full\" code-editable-id=\"1626\">Casual shoes (contact us for sizing)<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <strong>385DDF5p</strong></div>   \n                                      <div class=\"mbr-section-btn item-button\" style=\"text-align: center;\"><a href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline mbr-editable-button\" style=\"position: relative; display: inline-block;\" code-editable-id=\"1627\">Buy now!</a></div>\n                                  </div>        \n                              </div>\n                          </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3\" data-tags=\"Accessories\" data-seller=\"false\" price=\"120.00\">\n                              <div class=\"galleryItem\" href=\"#lb-shop1-3d\" data-slide-to=\"6\" data-toggle=\"modal\">\n                              <div class=\"item_overlay\"></div>\n                                  <div class=\"img_wraper\">\n                                    <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800-800x800-800x800-800x800.jpg\">\n                                  </div> \n                                  <span class=\"onsale mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1628\">SALE 50% OFF</span>\n                                  <div class=\"sidebar_wraper\"> \n                                      <h4 class=\"item-title mbr-editable-content\" code-editable-id=\"1629\">SMITH &amp; WESSON M&amp;P 15-22 SPORT</h4>\n                                      <h5 class=\"item-subtitle mbr-editable-content\" code-editable-id=\"1630\">Lorem ipsum dolor sit amet.</h5>\n                                      <div class=\"stars_wraper\" style=\"display: none;\">\n                                          <img class=\"stars\" alt=\"\" src=\"@PROJECT_PATH@/assets/images/3.png\" data-stars=\"@PROJECT_PATH@/assets/images/3.png\">\n                                      </div> \n                                      <div class=\"price-block\">\n                                          <span class=\"shop-item-price mbr-editable-content\" code-editable-id=\"1631\">£120.00</span>\n                                      </div>\n                                      <div class=\"card-description mbr-editable-full\" code-editable-id=\"1632\">Seen on photo. Check our gallery for more photos.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <strong>340DDF5p</strong></div>   \n                                      <div class=\"mbr-section-btn item-button\" style=\"text-align: center;\"><a href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline mbr-editable-button\" style=\"position: relative; display: inline-block;\" code-editable-id=\"1633\">Buy now!</a></div>\n                                  </div>        \n                              </div>\n                          </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3\" data-tags=\"Guns\" data-seller=\"false\" price=\"120.00\">\n                              <div class=\"galleryItem\" href=\"#lb-shop1-3d\" data-slide-to=\"7\" data-toggle=\"modal\">\n                              <div class=\"item_overlay\"></div>\n                                  <div class=\"img_wraper\">\n                                    <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/gun-shop-1-2000x2000-800x800-800x800-800x800-800x800.jpg\">\n                                  </div> \n                                  <span class=\"onsale mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1634\">SALE 50% OFF</span>\n                                  <div class=\"sidebar_wraper\"> \n                                      <h4 class=\"item-title mbr-editable-content\" code-editable-id=\"1635\">KIMBER RIFLE 8400 POLICE TACTICAL .308 WIN</h4>\n                                      <h5 class=\"item-subtitle mbr-editable-content\" code-editable-id=\"1636\">Lorem ipsum dolor sit amet.</h5>\n                                      <div class=\"stars_wraper\" style=\"display: none;\">\n                                          <img class=\"stars\" alt=\"\" src=\"@PROJECT_PATH@/assets/images/4.png\" data-stars=\"@PROJECT_PATH@/assets/images/4.png\">\n                                      </div> \n                                      <div class=\"price-block\">\n                                          <span class=\"shop-item-price mbr-editable-content\" code-editable-id=\"1637\">£120.00</span>\n                                      </div>\n                                      <div class=\"card-description mbr-editable-full\" code-editable-id=\"1638\">Hand-made! So they may differ.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <strong>34556F5p</strong></div>   \n                                      <div class=\"mbr-section-btn item-button\" style=\"text-align: center;\"><a href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline mbr-editable-button\" style=\"position: relative; display: inline-block;\" code-editable-id=\"1639\">Buy now!</a></div>\n                                  </div>        \n                              </div>\n                          </div>\n                      </div>\n                  </div>\n                  <div class=\"clearfix\"></div>\n          </div>\n        </div>\n    </div>\n    <div class=\"col-md-3 sidebar\"></div>\n\n    <!-- Lightbox -->\n    <div class=\"shopItemsModal_wraper\">\n      <div class=\"shopItemsModalBg\"></div>\n      <div class=\"shopItemsModal\">\n          <div class=\"col-md-6 image-modal\"></div>\n          <div class=\"col-md-6 text-modal\"></div>\n          <div class=\"closeModal\">\n            <div class=\"close-modal-wrapper\">\n              \n            </div>\n          </div>\n      </div>\n    </div> \n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".galleryItem h4:hover {\n\tcolor: #445647;\n}\n.mbr-gallery-filter ul li.active {\n\tcolor: #445647;\n}\n.mbr-gallery-filter ul li:hover {\n\tcolor: #445647;\n}\n.mbr-gallery-filter ul li:before {\n\tbackground: #445647;\n}\n.min-toggle:hover, .max-toggle:hover {\n\tbackground-color: #445647;\n}\n.shop-title {\n\tfont-family: Montserrat;\n}\n.categories-titles .mbr-gallery-filter ul li {\n\tfont-family: Montserrat;\n}\n.max-input {\n\tfont-family: Montserrat;\n}\n.min-input {\n\tfont-family: Montserrat;\n}\n.item-title {\n\tfont-family: Montserrat;\n}\n.card-description {\n\tfont-family: Open Sans;\n}\n.shop-item-price {\n\tfont-family: Montserrat;\n}\n",
+          "_customTemplate": true
         },
         {
           "_styles": {
@@ -2063,8 +2271,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft44.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright45.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft2.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright3.png\">"
         },
         {
           "_styles": {
@@ -2543,13 +2751,6 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-29",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p><b>FEATURES</b></p>",
           "_styles": {
             "P": {
               "font-size": "60px",
@@ -2559,7 +2760,14 @@
             "H3": {
               "font-size": "24px"
             }
-          }
+          },
+          "_anchor": "content1-29",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><b>FEATURES</b></p>"
         },
         {
           "alias": "colorm/components",
@@ -2567,13 +2775,6 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-28",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "text": "<ul><li><span style=\"line-height: 1.85em;\">Threaded Barrel with A1-Style Compensator (1/2 x 28\" Thread)</span></li></ul><ul><li><span style=\"line-height: 1.85em;\">Two-Position Receiver Mounted Safety Lever</span></li></ul><ul><li><span style=\"line-height: 1.85em;\">Functioning Charging Handle</span></li></ul><ul><li><span style=\"line-height: 1.85em;\">Bolt Catch</span></li></ul><ul><li><span style=\"line-height: 1.85em;\">Recessed Magazine Release</span></li></ul><ul><li><span style=\"line-height: 1.85em;\">Ambidextrous Load-Assist Button</span></li></ul><ul><li><span style=\"line-height: 1.85em;\">Lightweight, High-Strength Polymer Upper and Lower Receiver with Integral Steel Inserts</span></li></ul><ul><li><span style=\"line-height: 1.85em;\">Lightweight, High-Strength Polymer Quad Rail Handguard</span></li></ul><ul><li><span style=\"line-height: 1.85em;\">6-Position Collapsible Stock</span></li></ul>",
           "_styles": {
             "P": {
               "font-size": "20px",
@@ -2582,7 +2783,14 @@
             "UL": {
               "font-size": "22px"
             }
-          }
+          },
+          "_anchor": "content1-28",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<ul><li><span style=\"line-height: 1.85em;\">Threaded Barrel with A1-Style Compensator (1/2 x 28\" Thread)</span></li></ul><ul><li><span style=\"line-height: 1.85em;\">Two-Position Receiver Mounted Safety Lever</span></li></ul><ul><li><span style=\"line-height: 1.85em;\">Functioning Charging Handle</span></li></ul><ul><li><span style=\"line-height: 1.85em;\">Bolt Catch</span></li></ul><ul><li><span style=\"line-height: 1.85em;\">Recessed Magazine Release</span></li></ul><ul><li><span style=\"line-height: 1.85em;\">Ambidextrous Load-Assist Button</span></li></ul><ul><li><span style=\"line-height: 1.85em;\">Lightweight, High-Strength Polymer Upper and Lower Receiver with Integral Steel Inserts</span></li></ul><ul><li><span style=\"line-height: 1.85em;\">Lightweight, High-Strength Polymer Quad Rail Handguard</span></li></ul><ul><li><span style=\"line-height: 1.85em;\">6-Position Collapsible Stock</span></li></ul>"
         },
         {
           "_styles": {
@@ -2683,19 +2891,19 @@
             "Theme"
           ],
           "_name": "content4",
+          "_styles": {
+            "P": {
+              "color": "#333333",
+              "font-size": "24px"
+            }
+          },
           "_anchor": "content4-23",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>SPECIFICATIONS</b></p>",
-          "_styles": {
-            "P": {
-              "color": "#333333",
-              "font-size": "24px"
-            }
-          }
+          "text": "<p><b>SPECIFICATIONS</b></p>"
         },
         {
           "alias": "colorm/components",
@@ -2703,13 +2911,6 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-26",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "text": "<b>DELIVERY, RETURNS &amp; INSTORE COLLECTION</b><br>",
           "_styles": {
             "P": {
               "color": "#333333",
@@ -2719,7 +2920,14 @@
             "B": {
               "font-size": "24px"
             }
-          }
+          },
+          "_anchor": "content1-26",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<b>DELIVERY, RETURNS &amp; INSTORE COLLECTION</b><br>"
         },
         {
           "alias": "colorm/components",
@@ -3027,7 +3235,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-m\" aria-expanded=\"false\">CUSTOMISE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">REPAIR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CLEAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\">CALIBRATE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GUNSMITHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TRAINING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OPTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop.html\">ONLINE SHOP</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RIFLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signature-rifle.html\">Signature Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Custom Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Semi-Custom Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Used Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Shotguns</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">GUNSMITHING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Rebarreling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Synthetic Bedding<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Trigger Replacement<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Threading<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Recrowning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ceracote<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Services &amp; Repairs<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">TRAINING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"shop.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SHOP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Guns</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Cleaning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Optics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Moderators</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Clothing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Accessories</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#features1-l\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">CONTACT US</a></li>"
         },
         {
           "alias": "colorm/components",
@@ -3089,10 +3297,10 @@
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\n.mbr-section-subtitle {\n\ttext-transform: uppercase;\n\tcolor: #ffffff;\n}\n.form-control-label {\n\tcolor: undefined;\n}\n.mbr-section-title {\n\tfont-family: 'Montserrat', sans-serif;\n\tfont-size: 60px;\n    color:#ffffff!important;\n}\n.mbr-section-title B {\n\tcolor: #ffffff;\n\tfont-size: 60px;\n}\n.mbr-section-text {\n\tcolor: #ffffff;\n}\n",
           "_customTemplate": true,
-          "_anchor": "form2-15",
           "_styles": {
             ".form-control-label": {}
-          }
+          },
+          "_anchor": "form2-15"
         },
         {
           "title2": "Responsive",
