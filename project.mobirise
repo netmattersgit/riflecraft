@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Riflecraft - New Concept",
-    "currentPage": "index.html",
+    "currentPage": "shop.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -929,7 +929,7 @@
           },
           "title": "<b>Online Shop</b>",
           "meta": "",
-          "_customHTML": "<section class=\"mbr-section content3 mbr-section__container\" style=\"background-color: rgb(245, 245, 245); padding-top: 80px; padding-bottom: 0px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-4 mbr-editable-content\" code-editable-id=\"2161\"><strong>Online Shop</strong></h3>\n                <p class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"2162\"></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content3 mbr-section__container\" style=\"background-color: rgb(245, 245, 245); padding-top: 80px; padding-bottom: 0px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-4 mbr-editable-content\" code-editable-id=\"3322\"><strong>Online Shop</strong></h3>\n                <p class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"3323\"></p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\n.mbr-section-title, .mbr-section-subtitle {\n\ttext-align: center;\n}\nH3 {\n\tfont-size: 60px;\n\tfont-family: 'Montserrat', sans-serif;\n\tcolor: #333333;\n}\nB {\n\tcolor: #333333;\n}\n",
@@ -1896,8 +1896,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft32.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright33.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft34.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright35.png\">"
         },
         {
           "_styles": {
