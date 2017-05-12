@@ -929,10 +929,10 @@
           },
           "title": "<b>Online Shop</b>",
           "meta": "",
-          "_customHTML": "<section class=\"mbr-section content3 mbr-section__container\" style=\"background-color: rgb(245, 245, 245); padding-top: 80px; padding-bottom: 0px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-4 mbr-editable-content\" style=\"color: #333333\" code-editable-id=\"2151\"><strong>Online Shop</strong></h3>\n                <p class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"2152\"></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content3 mbr-section__container\" style=\"background-color: rgb(245, 245, 245); padding-top: 80px; padding-bottom: 0px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-4 mbr-editable-content\" code-editable-id=\"2155\"><strong>Online Shop</strong></h3>\n                <p class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"2156\"></p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\n.mbr-section-title, .mbr-section-subtitle {\n\ttext-align: center;\n}\nH3 {\n\tfont-size: 60px;\n\tfont-family: 'Montserrat', sans-serif;\n\tcolor: #ffffff;\n}\nB {\n\tcolor: #333333;\n}\n",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\n.mbr-section-title, .mbr-section-subtitle {\n\ttext-align: center;\n}\nH3 {\n\tfont-size: 60px;\n\tfont-family: 'Montserrat', sans-serif;\n\tcolor: #333333;\n}\nB {\n\tcolor: #333333;\n}\n",
           "_customTemplate": true
         },
         {
@@ -1896,8 +1896,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft10.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright11.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft12.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright13.png\">"
         },
         {
           "_styles": {
