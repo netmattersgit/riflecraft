@@ -1251,8 +1251,10 @@ blockquote {
 }
 #content1-26 P {
   color: #333333;
-  font-size: 30px;
+  font-size: 24px;
   text-align: center;
+  padding-top: 45px;
+  padding-bottom: 45px;
 }
 #content1-26 B {
   font-size: 24px;

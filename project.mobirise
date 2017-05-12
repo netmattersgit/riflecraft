@@ -1896,8 +1896,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft38.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright39.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft40.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright41.png\">"
         },
         {
           "_styles": {
@@ -2536,23 +2536,18 @@
             "Theme"
           ],
           "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#333333",
-              "font-size": "30px",
-              "text-align": "center"
-            },
-            "B": {
-              "font-size": "24px"
-            }
-          },
           "_anchor": "content1-26",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>DELIVERY, RETURNS &amp; INSTORE COLLECTION</b></p>"
+          "text": "<p><b>DELIVERY, RETURNS &amp; INSTORE COLLECTION</b></p>",
+          "_customHTML": "<section class=\"mbr-section content1 article mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 0px;\">\n\n   <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead\">\n                <p class=\"\"><strong>DELIVERY, RETURNS &amp; INSTORE COLLECTION</strong></p>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n\tcolor: #333333;\n\tfont-size: 24px;\n\ttext-align: center;\n    padding-top: 45px;\n    padding-bottom: 45px;\n}\nB {\n\tfont-size: 24px;\n}\n",
+          "_customTemplate": true
         },
         {
           "alias": "colorm/components",
