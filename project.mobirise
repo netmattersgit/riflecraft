@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Riflecraft - New Concept",
-    "currentPage": "shop.html",
+    "currentPage": "smith-and-wesson.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -1896,8 +1896,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft24.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright25.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft26.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright27.png\">"
         },
         {
           "_styles": {
@@ -2552,7 +2552,7 @@
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<b>DELIVERY, RETURNS &amp; INSTORE COLLECTION</b><br>"
+          "text": "<p><b>DELIVERY, RETURNS &amp; INSTORE COLLECTION</b></p>"
         },
         {
           "alias": "colorm/components",
