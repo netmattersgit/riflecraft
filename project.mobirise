@@ -916,20 +916,6 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-l\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RIFLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signature-rifle.html\">Signature Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Custom Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Semi-Custom Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Used Rifles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Shotguns</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">GUNSMITHING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Rebarreling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Synthetic Bedding<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Trigger Replacement<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Threading<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Recrowning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ceracote<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Services &amp; Repairs<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#features1-l\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">TRAINING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"shop.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SHOP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Guns</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Cleaning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Optics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Moderators</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Clothing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Accessories</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#features1-l\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">CONTACT US</a></li>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "60px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#ffffff"
-            },
-            "B": {
-              "color": "#333333"
-            }
-          },
           "_tags": [
             "Theme"
           ],
@@ -942,7 +928,12 @@
             "showMeta": true
           },
           "title": "<b>Online Shop</b>",
-          "meta": ""
+          "meta": "",
+          "_customHTML": "<section class=\"mbr-section content3 mbr-section__container\" style=\"background-color: rgb(245, 245, 245); padding-top: 80px; padding-bottom: 0px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-4 mbr-editable-content\" style=\"color: #333333\" code-editable-id=\"2151\"><strong>Online Shop</strong></h3>\n                <p class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"2152\"></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\n.mbr-section-title, .mbr-section-subtitle {\n\ttext-align: center;\n}\nH3 {\n\tfont-size: 60px;\n\tfont-family: 'Montserrat', sans-serif;\n\tcolor: #ffffff;\n}\nB {\n\tcolor: #333333;\n}\n",
+          "_customTemplate": true
         },
         {
           "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
@@ -1905,8 +1896,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft6.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright7.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft8.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright9.png\">"
         },
         {
           "_styles": {
