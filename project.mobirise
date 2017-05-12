@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Riflecraft - New Concept",
-    "currentPage": "signature-rifle.html",
+    "currentPage": "smith-and-wesson.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -1896,8 +1896,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft36.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright37.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft38.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright39.png\">"
         },
         {
           "_styles": {
@@ -2548,7 +2548,7 @@
           },
           "_anchor": "content1-26",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
