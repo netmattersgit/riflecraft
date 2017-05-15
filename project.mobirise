@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Riflecraft - New Concept",
-    "currentPage": "custom-rifles.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -920,12 +920,11 @@
             "Theme"
           ],
           "_name": "content3",
-          "_anchor": "content3-3f",
           "_params": {
+            "showMeta": true,
             "paddingTop": "4",
             "paddingBottom": "0",
-            "bgColor": "#f5f5f5",
-            "showMeta": true
+            "bgColor": "#f5f5f5"
           },
           "title": "<b>Online Shop</b>",
           "meta": "",
@@ -933,7 +932,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\n.mbr-section-title, .mbr-section-subtitle {\n\ttext-align: center;\n}\nH3 {\n\tfont-size: 60px;\n\tfont-family: 'Montserrat', sans-serif;\n\tcolor: #333333;\n}\nB {\n\tcolor: #333333;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "content3-3f"
         },
         {
           "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
@@ -942,11 +942,16 @@
           ],
           "_name": "shop1",
           "_params": {
+            "showTitle": false,
             "showSidebar": true,
             "showSortButtons": true,
+            "showBestSellers": false,
+            "priceRange": true,
+            "filter": true,
             "showStars": false,
             "paddingTop": 2,
             "paddingBottom": 2,
+            "bgColor": "#f5f5f5",
             "filterBgColor": false,
             "fontHoverColor": "@primaryColor",
             "mainTitle": "@titleFont",
@@ -1089,14 +1094,8 @@
                 "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
                 "active": false
               }
-            ],
-            "bgColor": "#f5f5f5",
-            "showTitle": false,
-            "showBestSellers": false,
-            "priceRange": true,
-            "filter": true
+            ]
           },
-          "_anchor": "shop1-3d",
           "title": "Shop",
           "filter_by_d": "<a data-app-btn=\"true\" class=\"btn btn-primary\">Default sorting</a>",
           "filter_by_pu": "<a data-app-btn=\"true\" class=\"btn btn-primary disableSortButton\">Price: low to high</a>",
@@ -1112,7 +1111,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".galleryItem h4:hover {\n\tcolor: #445647;\n}\n.mbr-gallery-filter ul li.active {\n\tcolor: #445647;\n}\n.mbr-gallery-filter ul li:hover {\n\tcolor: #445647;\n}\n.mbr-gallery-filter ul li:before {\n\tbackground: #445647;\n}\n.min-toggle:hover, .max-toggle:hover {\n\tbackground-color: #445647;\n}\n.shop-title {\n\tfont-family: Montserrat;\n}\n.categories-titles .mbr-gallery-filter ul li {\n\tfont-family: Montserrat;\n}\n.max-input {\n\tfont-family: Montserrat;\n}\n.min-input {\n\tfont-family: Montserrat;\n}\n.item-title {\n\tfont-family: Montserrat;\n}\n.card-description {\n\tfont-family: Open Sans;\n}\n.shop-item-price {\n\tfont-family: Montserrat;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "shop1-3d"
         },
         {
           "_styles": {
@@ -1896,8 +1896,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft42.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright43.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft0.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright1.png\">"
         },
         {
           "_styles": {
@@ -2536,7 +2536,6 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-26",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -2547,7 +2546,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "P {\n\tcolor: #333333;\n\tfont-size: 24px;\n\ttext-align: center;\n    padding-top: 45px;\n    padding-bottom: 45px;\n}\nB {\n\tfont-size: 24px;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "content1-26"
         },
         {
           "alias": "colorm/components",

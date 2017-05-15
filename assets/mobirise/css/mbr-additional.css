@@ -1115,9 +1115,6 @@ blockquote {
   text-transform: uppercase;
   color: #ffffff;
 }
-#form2-32 .form-control-label {
-  color: undefined;
-}
 #form2-32 .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
   font-size: 60px;
@@ -1342,9 +1339,6 @@ blockquote {
 }
 #form2-15 {
   
-}
-#form2-15 .form-control-label {
-  color: undefined;
 }
 #form2-15 .mbr-section-subtitle {
   text-transform: uppercase;
