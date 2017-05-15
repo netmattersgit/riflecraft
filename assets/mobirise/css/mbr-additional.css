@@ -1343,6 +1343,9 @@ blockquote {
 #form2-15 {
   
 }
+#form2-15 .form-control-label {
+  color: undefined;
+}
 #form2-15 .mbr-section-subtitle {
   text-transform: uppercase;
   color: #ffffff;
@@ -1361,6 +1364,10 @@ blockquote {
 }
 #form2-15 .mbr-section-text {
   color: #ffffff;
+}
+#form2-15 .btn-primary {
+  background-color: #f39c12;
+  border-color: #f39c12;
 }
 #features8-14 .lead {
   color: #9fa3a7;
