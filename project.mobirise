@@ -1896,8 +1896,8 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft0.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright1.png\">"
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft2.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright3.png\">"
         },
         {
           "_styles": {
